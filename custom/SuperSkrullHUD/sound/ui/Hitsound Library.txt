@@ -1,0 +1,18 @@
+SuperSkrull's Hitsound Library
+
+Remove the prefixes to activate the hit/killsounds in game
+Only one file each can be called hitsound.wav and killsound.wav
+Starred files are the same sound that can be used as both the
+hit and killsound.  To add more, as and when it takes my fancy
+
+Bronx				          Electro stab hitsound, classic orchestra hit killsound
+DDG				            Duck, Duck, Goose - as used by BlindPyro, Quack Hit, Gobble Kill
+Mario Paint			      meow for hitsound, drum hit for kill, can be reversed per preference
+MGS				            Metal Gear Solid item open SFX for hit, found sfx for kill
+*Quake Live			      As used by b4nny, STAR_ and many others
+Quake 3				        Quake 3 beep as hit, "Denied" as kill
+Roblox				        Standard & stretched Ooofs from Roblox
+SMB				            Jump sound from Super Mario Bros 2 for hit, coin sound from SMB for kill
+Sonic				          Sonic 1 Diamond as hit, Sonic Rings as kill
+*Unreal Tournament		Unreal Tournament clave sound
+Yoshi				          Yoshi sfx from Super Smash Bros Melee
